@@ -1,0 +1,159 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    
+    background-size: 100%;
+    background-position: 0px -450px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#container
+{
+    position: relative;
+    width: 40%;
+    height: 80%;
+    background-color: rgba(0,0,0,0.486);
+    border-radius: 2%;
+    box-shadow: 5px 5px 5px black;
+}
+#display
+{
+    width: 75%;
+    height: 40px;
+    position: absolute;
+    top:5%;
+    left: 9%;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+    outline: none;
+    border: groove 10px rgb(155,155,155);
+    box-shadow: 2px 2px 5px black;
+
+}
+.a
+{
+    top:15vh;
+    left: 12vh;
+    margin: 5px;
+    margin-top: 24px;
+    position: relative;
+    width: 15%;
+    height: 6vh;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+    border: 2px solid white;
+}
+#clear
+{
+    position: absolute;
+    bottom: 80px;
+    width: 30%;
+    height: 8vh;
+    font-size: 24px;
+    left:5vw ;
+    background-color: rgb(0,0,71);
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px ;
+    box-shadow: 2px 2px 2px black;
+}
+#equ
+{
+    position: absolute;
+    bottom: 80px;
+    height: 8vh;
+    width: 40%;
+    font-size: 24px;
+    left: 18vw;
+    background-color: rgb(0,0,71);
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+}
+
+#c:focus
+{
+    background-color:blue;
+}
+
+#d:focus
+{
+    background-color: aqua;
+}
+
+#e:focus
+{
+    background-color:blueviolet;
+}
+
+#f:focus
+{
+    background-color:cornflowerblue;
+}
+#g:focus
+{
+    background-color:darkgray;
+} 
+#h:focus
+{
+    background-color:crimson;
+}
+
+#i:focus
+{
+    background-color:darkturquoise;
+}
+#j:focus
+{
+    background-color:fuchsia;
+}
+#k:focus
+{
+    background-color:dodgerblue;
+}
+#l:focus
+{
+    background-color:darksalmon;
+}
+#m:focus
+{
+    background-color:gold;
+}
+#n:focus
+{
+    background-color:indigo;
+}
+#o:focus
+{
+    background-color:lightsalmon;
+}
+#p:focus
+{
+    background-color:lightpink;
+}
+#q:focus
+{
+    background-color:aquamarine;
+}
+#r:focus
+{
+    background-color:mediumpurple;
+}
+
+
+
+
+
